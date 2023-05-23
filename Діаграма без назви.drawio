@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-05-23T15:49:59.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_dhdhC_YY-HA71pqxIww" version="21.3.3" type="github">
+  <diagram name="Сторінка-1" id="-OSfMtu3TaqCq998lPGS">
+    <mxGraphModel dx="938" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vVHR6ByP8qNk3AICSqPJ-1" target="vozU0qDYMAVB8xWwkWYf-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vVHR6ByP8qNk3AICSqPJ-1" value="Старт програми" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="331" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vozU0qDYMAVB8xWwkWYf-2" target="vozU0qDYMAVB8xWwkWYf-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-2" value="Виведення поля" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vozU0qDYMAVB8xWwkWYf-3" target="vozU0qDYMAVB8xWwkWYf-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vozU0qDYMAVB8xWwkWYf-3" target="vozU0qDYMAVB8xWwkWYf-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-3" value="Вибір режиму гри&lt;span id=&quot;docs-internal-guid-321d3be8-7fff-9329-2bb9-49351d8f6e9c&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;docs-internal-guid-1c4b53f9-7fff-63d5-5b33-3f69275330f2&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="331" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-8" value="Виведення поля" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vozU0qDYMAVB8xWwkWYf-12" target="vozU0qDYMAVB8xWwkWYf-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-12" value="User-PC&lt;span id=&quot;docs-internal-guid-ddc45cb4-7fff-b80d-b5cc-657cc404f076&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-ddc45cb4-7fff-b80d-b5cc-657cc404f076&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vozU0qDYMAVB8xWwkWYf-14" target="vozU0qDYMAVB8xWwkWYf-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-14" value="User-user&lt;span id=&quot;docs-internal-guid-ddc45cb4-7fff-b80d-b5cc-657cc404f076&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-21" value="Введення номеру клітинки" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="380" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vozU0qDYMAVB8xWwkWYf-22" value="Введення номеру клітинки" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="380" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
